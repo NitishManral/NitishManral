@@ -2,7 +2,7 @@
 A Computer Science Engineering student with a passion for everything related to computer science. Currently,
 I am focusing on learning web development and cloud computing. I am excited to explore new technologies and contribute to the GitHub community.
 
-- 🔭 I’m currently working on React.js, Spring Framework and node.js
+- 🔭 I’m currently working on MERN stack and Spring Framework
 - 🌱 I’m currently learning Cloud Technology 
 - 👯 I’m looking to collaborate on Backend 
 <!--
