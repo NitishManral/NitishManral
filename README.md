@@ -4,7 +4,7 @@ I am focusing on learning web development and cloud computing. I am excited to e
 
 - 🔭 I’m currently working on MERN stack and Spring Framework
 - 🌱 I’m currently learning Cloud Technology 
-- 👯 I’m looking to collaborate on Backend 
+- 👯 I’m looking to collaborate 
 <!--
 **NitishManral/NitishManral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
